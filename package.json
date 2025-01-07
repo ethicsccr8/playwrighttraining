@@ -1,0 +1,23 @@
+{
+  "name": "playwrighttraining",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethicsccr8/playwrighttraining.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ethicsccr8/playwrighttraining/issues"
+  },
+  "homepage": "https://github.com/ethicsccr8/playwrighttraining#readme",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.5"
+  }
+}
